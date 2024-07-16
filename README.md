@@ -318,7 +318,7 @@ Passo a passo para clonar e executar a aplicação na sua máquina:
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:pabloxt14/nlw-journey-node.git
+$ git clone git@github.com:kaykeeb3/nlw-journey-node.git
 
 # Acesse a pasta do projeto no terminal
 $ cd nlw-journey-node
